@@ -172,7 +172,7 @@ public class frame5 extends javax.swing.JFrame {
 
         getContentPane().add(jPanel1, new org.netbeans.lib.awtextra.AbsoluteConstraints(40, 80, 170, 320));
 
-        jLabel1.setIcon(new javax.swing.ImageIcon("C:\\Users\\adild\\Downloads\\wpp statistik (1).png")); // NOI18N
+        jLabel1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/gambarPekej/wpp statistik (1).png"))); // NOI18N
         getContentPane().add(jLabel1, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, -1, -1));
 
         jLabel2.setText("jLabel2");
